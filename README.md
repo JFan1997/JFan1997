@@ -10,13 +10,13 @@
     <!-- GitHub Stats Card -->
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=sjtuyinjie" alt="Jie's GitHub stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=JFan1997" alt="Jie's GitHub stats">
       </a>
     </td>
     <!-- Top Languages Card -->
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjtuyinjie&layout=compact&theme=tokyonight" alt="Top Langs">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFan1997&layout=compact&theme=tokyonight" alt="Top Langs">
       </a>
     </td>
   </tr>
