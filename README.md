@@ -4,7 +4,7 @@
  I am currently a PhD student at the [University of Notre Dame](https://www.nd.edu/) majoring in Computer Science Engineering, supervised by Profeesor [Fanxin Kong](https://sites.google.com/site/fanxink). I received the B.E. degree in Software Engineer from [Shandong University](https://www.en.sdu.edu.cn/), Jinan, China, in 2019.
 
  
- My main research interests include robotics, artifical intelligence, cyber-physical systems, and medical imaging.
+ My main research interests include reinforcement learning, safe learning, robust learning, and cyber-physical systems (CPS).
 
 
 
